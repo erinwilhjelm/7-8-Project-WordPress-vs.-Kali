@@ -8,7 +8,7 @@ Vulnerability types: XSS
 Tested in version: 4.2.2
 Fixed in version: 4.2.3
 
-![Alt Text](https://github.com/erinwilhjelm/7-8-Project-WordPress-vs.-Kali/blob/master/XSS.gif)
+![Alt Text](https://github.com/erinwilhjelm/7-8-Project-WordPress-vs.-Kali/blob/master/xss-1.gif)
 
 While creating a post or page, enter in the follwing code in the html "text" section. 
 
