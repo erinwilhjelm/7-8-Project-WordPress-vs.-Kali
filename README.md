@@ -17,7 +17,7 @@ Steps to recreate: While creating a post or page, enter in the follwing code in 
 Summary:
 Vulnerability types: User Enumeration
 Tested in version: 4.2.2
-Fixed in version: 4.2.3
+Fixed in version: N/A
 
 ![Alt Text](https://github.com/erinwilhjelm/7-8-Project-WordPress-vs.-Kali/blob/master/User%20Enumeration.gif)
 
@@ -28,7 +28,7 @@ Steps to recreate: When entering in a username that is not in the database Wordp
 Summary: 
 Vulnerability types: XSS
 Tested in version: 4.2.2
-Fixed in version: 4.2.3
+Fixed in version: 4.2.X
 
 
 ![Alt Text](https://github.com/erinwilhjelm/7-8-Project-WordPress-vs.-Kali/blob/master/xss-2.gif)
