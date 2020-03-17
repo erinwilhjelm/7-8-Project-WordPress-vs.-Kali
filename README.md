@@ -2,7 +2,6 @@
 
 1. Cross-Site Scripting (XSS) 
 
-
 Summary: 
 Vulnerability types: XSS
 Tested in version: 4.2.2
@@ -16,9 +15,7 @@ Steps to recreate: While creating a post or page, enter in the follwing code in 
 2. User Enumeration
 Summary:
 Vulnerability types: User Enumeration
-
 Tested in version: 4.2.2
-
 Fixed in version: N/A
 
 ![Alt Text](https://github.com/erinwilhjelm/7-8-Project-WordPress-vs.-Kali/blob/master/User%20Enumeration.gif)
